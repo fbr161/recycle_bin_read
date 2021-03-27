@@ -1,6 +1,6 @@
 <?php
 class Database{
-
+    //database dvdv
     private $host = "localhost";
     private $db_name = "recycle_bin";
     private $user_name = "root";
