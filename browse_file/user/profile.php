@@ -19,5 +19,6 @@
     //user information
     $user_info = json_decode($result, true);
     print_r($user_info);
+    /// end
 
 ?>
